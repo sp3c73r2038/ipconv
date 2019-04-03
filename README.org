@@ -1,0 +1,5 @@
+#+NAME:
+#+BEGIN_SRC bash
+$ cd /path/to/ipconv
+$ go test
+#+END_SRC
